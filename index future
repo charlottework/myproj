@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Future...</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+
+    <style>
+        body{
+            background-color: #A3A3A3;
+        }
+
+        h3{
+            font-family: 'Times New Roman';
+            font-size: 50px;
+            color: #DB6A8F;
+            position: relative;
+            left: 850px;
+            top: 0px;
+        }
+
+        img{
+            height: 100px;
+            position: relative;
+            top: 50px;
+            left: 50px;
+        }
+    </style>
+    
+    <a href="Site de présentation.html"><img src="tirets menu.png" alt="Accès au menu"></a>
+
+    <h3>My Future...</h3>
+
+    <p>
+        Next year, I would like to do a gap year and do an internship as a project manager at Nike in the Netherlands.
+        <br>
+        If this project does not happen, I would like to do an internship in London or in a Scandinavian country (still as a project manager).
+    </p>
+
+    <p>
+        After that, I would like to do my last year of study at IESEG.
+        <br>
+        Once I graduate, I would like to do an 18-month VIE in England to gain experience and take advantage of this time to go abroad again. 
+    </p>
+
+    <style>
+        p{
+        font-family: 'Times New Roman';
+        font-size: 40px;
+        color: #585858;
+        border: 4px solid #4AA3A2;
+        border-radius: 10px;
+        background-color: #A7E0E0;
+        position: relative;
+        box-shadow: 4px 4px 4px #F0F0F0;
+        width: 1400px;
+        left: 250px;
+        top: 50px;
+        }
+    </style>
+
+</body>
+</html>

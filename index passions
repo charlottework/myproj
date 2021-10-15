@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Passions...</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+
+    <style>
+        body{
+            background-color: #A3A3A3;
+        }
+
+        h3{
+            font-family: 'Times New Roman';
+            font-size: 50px;
+            color: #DB6A8F;
+            position: relative;
+            left: 850px;
+            top: 0px;
+        }
+
+        img{
+            height: 100px;
+            position: relative;
+            top: 50px;
+            left: 50px;
+        }
+    </style>
+    
+    <a href="Site de présentation.html"><img src="tirets menu.png"></a>
+
+    <h3>My Passions...</h3>
+
+    <p>
+        - Travelling: I have been lucky enough to travel to many places in my life and have always found it exciting to learn about new cultures and people.
+        <br> 
+        I had the opportunity to go on an Erasmus course in Estonia, to spend 3 months in Canada and to visit other countries for tourism.
+    </p>
+
+    <br>
+
+    <p>
+        - Sport: I find that sport is a real source of motivation that allows me to do other things afterwards.
+        <br>
+        I particularly like running and skiing.
+    </p>
+
+    <br>
+
+    <p>
+        - Reading: I have recently started reading again but I find a way to relax and unwind at the end of the day. 
+        <br>
+        I particularly enjoy reading fantasy novels.
+    </p>
+
+    <style>
+        p{
+            font-family: 'Times New Roman';
+            font-size: 40px;
+            color: #585858;
+            border: 4px solid #4AA3A2;
+            border-radius: 10px;
+            background-color: #A7E0E0;
+            position: relative;
+            box-shadow: 4px 4px 4px #F0F0F0;
+            width: 1400px;
+            left: 250px;
+            top: 50px;
+        }
+    </style>
+
+</body>
+</html>
